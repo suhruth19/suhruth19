@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @suhruth19
-- 👀 I’m interested in full stack web development 
+- 👀 I’m interested in software development
+- My key skills are Java , Mysql , html , css , js 
 - 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail...saisuhruth19@gmail.com
 
 <!---
